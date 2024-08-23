@@ -76,6 +76,52 @@ Datasheet: https://www.espressif.com/sites/default/files/documentation/esp32-s3_
 
 # **Pinout detalhado**  
 
+### Pinout Completo do ESP32-S3-WROOM-1 (N8R8)
+
+| Pino | Nome             | Função                                      |  
+|------|------------------|---------------------------------------------|
+| 1    | GND              | Terra                                       |
+| 2    | VDD3P3           | Alimentação 3.3V                            |
+| 3    | EN               | Habilitar o módulo                          |
+| 4    | IO04             | GPIO, Entrada/Saída digital				          |
+| 5    | IO05             | GPIO, Entrada/Saída digital				          |
+| 6    | IO06             | GPIO, Entrada/Saída digital				          |
+| 7    | IO07             | GPIO, Entrada/Saída digital				          |
+| 8    | IO15             | GPIO, Entrada/Saída digital				          |
+| 9    | IO16             | GPIO, Entrada/Saída digital				          |
+| 10   | IO17             | GPIO, Entrada/Saída digital				          |
+| 11   | IO18             | GPIO, Entrada/Saída digital				          |  
+| 12   | IO08             | GPIO, Entrada/Saída digital				          |
+| 13   | IO19             | GPIO, Entrada/Saída digital				          |
+| 14   | IO20             | GPIO, Entrada/Saída digital				          |
+| 15   | IO03             | GPIO, Entrada/Saída digital				          |
+| 16   | IO46             | GPIO, Entrada/Saída digital				          |
+| 17   | IO09             | GPIO, Entrada/Saída digital, RX-BC		      |
+| 18   | IO10             | GPIO, Entrada/Saída digital, TX-BC   	      |
+| 19   | IO11             | GPIO, Entrada/Saída digital, PSM-BC  	      |
+| 20   | IO12             | GPIO, Entrada/Saída digital, RST-BC 	      |
+| 21   | IO13             | GPIO, Entrada/Saída digital				          |
+| 22   | IO14             | GPIO, Entrada/Saída digital				          |
+| 23   | IO21             | GPIO, Entrada/Saída digital				          |
+| 24   | IO47             | GPIO, Entrada/Saída digital, BOTÃO		      |
+| 25   | IO48             | GPIO, Entrada/Saída digital, LED		        |
+| 26   | IO45             | GPIO, Entrada/Saída digital				          |
+| 27   | IO00             | GPIO, Entrada/Saída digital				          |
+| 28   | IO35             | GPIO, Entrada/Saída digital                 |
+| 29   | IO36             | GPIO, Entrada/Saída digital                 |
+| 30   | IO37             | GPIO, Entrada/Saída digital                 |
+| 31   | IO38             | GPIO, Entrada/Saída digital                 |
+| 32   | IO39             | GPIO, Entrada/Saída digital                 |
+| 33   | IO40             | GPIO, Entrada/Saída digital                 |
+| 34   | IO41             | GPIO, Entrada/Saída digital                 |
+| 35   | IO42             | GPIO, Entrada/Saída digital                 |
+| 36   | RXD0             | GPIO, Entrada/Saída digital                 |
+| 37   | TXD0             | GPIO, Entrada/Saída digital                 |
+| 38   | IO2              | GPIO, Entrada/Saída digital                 |
+| 39   | IO1              | GPIO, Entrada/Saída digital                 |
+| 40   | GND              | Terra                                       |
+| 41   | GND              | Terra			                                  |
+
 # **Requisitos para o desenvolvimento**
 
 Para trabalhar com o DevKit NB-IoT você vai precisar de:  
