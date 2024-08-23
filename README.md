@@ -99,9 +99,10 @@ Documentação sobre os comandos AT: https://auroraevernet.ru/upload/iblock/982/
 
 # **Exemplos práticos para Arduino e ESP-IDF**  
 
-# **Material de Apoio**  
+Na pasta firmware tem os exemplos para Arduino e ESP-IDF e biblioteca para ser instalada e usada.  
 
-# **Projetos e Artigos**  
+<!-- # **Material de Apoio**  -->
 
-# **Projetos e Artigos**  
+<!-- # **Projetos e Artigos**  -->
 
+<!-- # **FAQ**  -->
