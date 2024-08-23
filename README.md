@@ -76,9 +76,26 @@ Datasheet: https://www.espressif.com/sites/default/files/documentation/esp32-s3_
 
 # **Pinout detalhado**  
 
-# **Requisitos para o desenvolvimento**  
+# **Requisitos para o desenvolvimento**
+
+Para trabalhar com o DevKit NB-IoT você vai precisar de:  
+
+-> DevKit  
+-> Cabo USB tipo C  
+-> Antena NB-IoT (acompanha no kit)  
+-> SIMCARD com conectividade NB-IoT  
+-> Ambiente de programação  
+  - Arduino Core  
+  - Arduino IDE  
+  - VSCode + Platformio
+  - ESP-IDF  
+  - VSCode  
+  - Eclipse  
+  - VSCode + Platformio  
 
 # **Comandos AT para comunicação com o módulo BC660K**  
+
+Documentação sobre os comandos AT: https://auroraevernet.ru/upload/iblock/982/e5bcivsatkfbvd2wn8qgg5d07mc385q5.pdf  
 
 # **Exemplos práticos para Arduino e ESP-IDF**  
 
